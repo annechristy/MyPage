@@ -71,8 +71,8 @@ hr.star-primary {
 }
 
 hr.star-primary:after {
-    color: #3d0014;
-    background-color: #fff;
+    color: #3d0014;  /* changed the color of the star in the primary section */
+    background-color: #abc;
 }
 
 .img-centered {
