@@ -71,7 +71,7 @@ hr.star-primary {
 }
 
 hr.star-primary:after {
-    color: #2c3e50;
+    color: #3d0014;
     background-color: #fff;
 }
 
@@ -335,7 +335,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #3d0014;
+    background-color: #3d0014; /* bg changes top layer of page footer */
 }
 
 footer .footer-col {
@@ -344,7 +344,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140;
+    background-color: #233140; /* probably changes bottom layer bg of footer */
 }
 
 .btn-social {
