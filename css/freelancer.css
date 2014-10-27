@@ -72,7 +72,7 @@ hr.star-primary {
 
 hr.star-primary:after {
     color: #3d0014;  /* changed the color of the star in the primary section */
-    background-color: #abc;
+    background-color: #abc; /* affects color of bg square behind the star in this section */
 }
 
 .img-centered {
@@ -82,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #18bc9c;
+    background: #0000cc;
 }
 
 header .container {
