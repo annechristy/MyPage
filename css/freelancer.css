@@ -180,8 +180,8 @@ section h2 {
 }
 
 section.success {
-    color: #00cc00;
-    background: #18bc9c;
+    color: #fff;  /* Affects the font color of About and the corresponding text. */
+    background: #00cc00;
 }
 
 @media(max-width:767px) {
