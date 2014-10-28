@@ -82,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #531c5e; /* home screen background (behind profile pic)  was: #18bc9c*/
+    background: #85335c; /* home screen background (behind profile pic)  was: #18bc9c*/
 }
 
 header .container {
@@ -335,7 +335,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #3d0014; /* bg changes top layer of page footer */
+    background-color: #85335c; /* bg changes top layer of page footer */
 }
 
 footer .footer-col {
@@ -344,7 +344,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #233140; /* probably changes bottom layer bg of footer */
+    background-color: #3d0014; /* probably changes bottom layer bg of footer */
 }
 
 .btn-social {
