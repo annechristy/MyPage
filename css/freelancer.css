@@ -82,7 +82,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #000; /* home screen background (behind profile pic)  was: #18bc9c*/
+    background: #531c5e; /* home screen background (behind profile pic)  was: #18bc9c*/
 }
 
 header .container {
